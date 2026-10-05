@@ -23,3 +23,15 @@ Nom: T'Challa
 Poder: Forca, agilitat i tecnologia de vibranium
 Origen: Rei de Wakanda i protector del seu poble
 Funcio dins la saga: Ajuda els Avengers amb la tecnologia de Wakanda
+
+## Hulk
+Nom: Bruce Banner
+Poder: Superforca i gran resistencia
+Origen: Es transforma en Hulk a causa de la radiacio gamma
+Funcio dins la saga: Aporta una gran forca als Avengers
+
+## Doctor Strange
+Nom: Stephen Strange
+Poder: Magia i control de les arts mistiques
+Origen: Va aprendre magia despres de patir un accident
+Funcio dins la saga: Protegeix la Terra de les amenaces magiques

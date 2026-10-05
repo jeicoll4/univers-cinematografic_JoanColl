@@ -2,7 +2,7 @@
 
 ## Iron Man
 Nom: Tony Stark
-Poder: Armadura tecnologica
+Poder: Armadura tecnologica, capacitat de volar i armes integrades
 Origen: Empresari i inventor que crea la seva propia armadura
 Funcio dins la saga: Lider i suport tecnologic dels Avengers
 

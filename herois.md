@@ -35,3 +35,8 @@ Nom: Stephen Strange
 Poder: Magia i control de les arts mistiques
 Origen: Va aprendre magia despres de patir un accident
 Funcio dins la saga: Protegeix la Terra de les amenaces magiques
+
+
+## Relacions entre herois
+
+Iron Man i Spider-Man tenen una relacio de mentor i aprenent. Iron Man ajuda Spider-Man a millorar les seves habilitats i la seva tecnologia.

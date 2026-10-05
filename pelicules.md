@@ -20,3 +20,8 @@ Antagonistes: Thanos i Loki
 Escenari principal: La Terra, Asgard i l'espai
 Trama: Thanos i Loki formen una alianca per aconseguir un poder capaç de controlar diferents mons. Els Avengers hauran de separar-se en diferents equips per aturar-los.
 Relacio amb la historia: Capitols 4 i 5
+
+
+## Escena postcredits
+
+Despres de la batalla dels tres mons, Doctor Strange descobreix una nova amenaça que podria posar en perill tot l'univers. L'escena acaba mostrant una misteriosa figura observant la Terra.
